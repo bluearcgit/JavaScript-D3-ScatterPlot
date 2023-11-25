@@ -1,0 +1,18 @@
+#chart {
+  width: 800px;
+  height: 800px;
+  background-color: #f5f5f5;
+  margin: 25px auto;
+  position: relative
+}
+
+
+.axis {
+  font-size: 16px;
+  shape-rendering: geometricPrecision;
+}
+
+.yxis {
+  font-size: 16px;
+  shape-rendering: geometricPrecision;
+}
